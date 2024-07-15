@@ -41,7 +41,10 @@ While my focus lies predominantly in Java and Spring for backend development, I 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<h2 align="center">Let's connect and innovate together! 🚀</h2>
+<br>
+<h2 align="center">
+    <a href="mailto:afpobleteg@gmail.com">Let's connect and innovate together! 🚀</a>
+</h2>
 
 
 <!--
